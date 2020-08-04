@@ -4,65 +4,23 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/official-antistasi-community/A3-Antistasi/releases/latest">
-        <img src="https://img.shields.io/badge/Latest_Version-2.3.0-blue.svg?style=flat-square" alt="Antistasi Version">
+    <a href="https://github.com/official-antistasi-community/A3-Antistasi/">
+        Official Antistasi Community Github
     </a>
-    <a href="https://github.com/official-antistasi-community/A3-Antistasi/issues">
-        <img src="https://img.shields.io/github/issues/official-antistasi-community/A3-Antistasi?style=flat-square" alt="Issues">
-    </a>
-    <a href="https://github.com/official-antistasi-community/A3-Antistasi/releases">
-        <img src="https://img.shields.io/github/downloads/official-antistasi-community/A3-Antistasi/total.svg?style=flat-square&label=Downloads" alt="Antistasi Downloads">
-    </a>
-    <a href="https://github.com/official-antistasi-community/A3-Antistasi/blob/unstable/LICENSE">
-        <img src="https://img.shields.io/badge/License-MiT-blue.svg?style=flat-square" alt="Antistasi License">
     </a>
 </p>
 
-
-<p align="center">
-    <a href="https://discord.gg/t7JD7eT">Discord</a> | <a href="https://antistasi.net/">Forums</a> | <a href="https://docs.google.com/document/d/1cCptf8Uo-mBHRhIqx1BPznECzgRqwJuj70AGjiI6KOI/">Guide (outdated)</a> | <a href="https://www.youtube.com/watch?v=nebLG3Jhrbk">Video Tutorial (outdated)</a>
-</p>
 </div>
 
 ## About
-A Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics.
+A modification to the Antistasi Community Version where you play as a British Special Forces Operative leading a Resistance movement.
 
-## Project Status
-Master Branch: [![Build Status](https://travis-ci.com/official-antistasi-community/A3-Antistasi.svg?branch=master)](https://travis-ci.com/official-antistasi-community/A3-Antistasi)
-Unstable Branch: [![Build Status](https://travis-ci.com/official-antistasi-community/A3-Antistasi.svg?branch=unstable)](https://travis-ci.com/official-antistasi-community/A3-Antistasi)
+Anstistasi is a Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics.
 
-## Grab our latest release on Steam!
-### [Mission Files](https://steamcommunity.com/id/OfficialAntiStasiCommunity/myworkshopfiles/)
-- Altis
-    - [Steam Workshop: 1832638103](https://steamcommunity.com/sharedfiles/filedetails/?id=1832638103)
-- Altis Blufor
-    - [Steam Workshop: 1832665647](https://steamcommunity.com/sharedfiles/filedetails/?id=1832665647)
-- Tanoa
-    - [Steam Workshop: 1832685459](https://steamcommunity.com/sharedfiles/filedetails/?id=1832685459)
-- Malden
-    - [Steam Workshop: 1850103246](https://steamcommunity.com/sharedfiles/filedetails/?id=1850103246)
-- Livonia
-    - [Steam Workshop: 1850107049](https://steamcommunity.com/sharedfiles/filedetails/?id=1850107049)
-- Chernarus Summer
-    - [Steam Workshop: 1833035777](https://steamcommunity.com/sharedfiles/filedetails/?id=1833035777)
-- Chernarus Winter
-    - [Steam Workshop: 1959942769](https://steamcommunity.com/sharedfiles/filedetails/?id=1959942769)
-- Anizay
-    - [Steam Workshop: 1959965492](https://steamcommunity.com/sharedfiles/filedetails/?id=1959965492)
-- Kunduz
-    - [Steam Workshop: 1959971214](https://steamcommunity.com/sharedfiles/filedetails/?id=1959971214)
-- Tembelan Island
-    - [Steam Workshop: 1959976706](https://steamcommunity.com/sharedfiles/filedetails/?id=1959976706)
-- Virolahti
-    - [Steam Workshop: 2178424367](https://steamcommunity.com/sharedfiles/filedetails/?id=2178424367)
-- Altis 1.9 Community Version
-    - [Steam Workshop: 1832910657](https://steamcommunity.com/sharedfiles/filedetails/?id=1832910657)
+## Credit
+Credit for Antistasi goes to Barbolani and the Antistasi Community Team - I just modified it a bit
 
-### [Suggested Modlists](https://steamcommunity.com/id/OfficialAntiStasiCommunity/myworkshopfiles/?section=collections)
-- Vanilla
-    - [Steam Workshop: 1833674441](https://steamcommunity.com/sharedfiles/filedetails/?id=1833674441)
-- RHS Collection
-    - [Steam Workshop: 1833668872](https://steamcommunity.com/sharedfiles/filedetails/?id=1833668872)
+### Suggested Modlist
 - 3CB Collection
     - [Steam Workshop: 1834976313](https://steamcommunity.com/sharedfiles/filedetails/?id=1834976313)
 
@@ -96,4 +54,4 @@ Unstable Branch: [![Build Status](https://travis-ci.com/official-antistasi-commu
 - Follow [Getting Started](https://github.com/official-antistasi-community/A3-Antistasi/wiki/Build-With-ADD)
 
 ### Known Issues:
-For a list of known issues, please see the [Issues on Github](https://github.com/official-antistasi-community/A3-Antistasi/issues).
+For a list of known issues, please see [TO BE ADDED].
