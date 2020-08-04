@@ -11,12 +11,12 @@ class CfgIdentities
   };
   class friendlyX
   {
-    name = "Petros";
-    nameSound = "Petros";
-    face="GreekHead_A3_01";
+    name = "Miller";
+    nameSound = "Miller";
+    face="Miller";
     glasses="None";
-    speaker="Male01GRE";
-    pitch=1.1;
+    speaker="Male01ENGB";
+    pitch=0.9;
   };
   class Anthis
   {
