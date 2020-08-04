@@ -17,6 +17,8 @@ A modification to the Antistasi Community Version where you play as a British Sp
 
 Anstistasi is a Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics.
 
+***Currently Only Supports Altis***
+
 ## Credit
 Credit for Antistasi goes to Barbolani and the Antistasi Community Team - I just modified it a bit
 
