@@ -474,24 +474,24 @@
     </Container>
     <Container name="credits_generic">
       <Key ID="STR_antistasi_credits_generic_author_text">
-        <Original>The Official Antistasi Community and Barbolani - edited by Chilli</Original>
-        <English>The Official Antistasi Community and Barbolani - edited by Chilli</English>
+        <Original>The Official Antistasi Community and Barbolani - modified by Chilli</Original>
+        <English>The Official Antistasi Community and Barbolani - modified by Chilli</English>
         <French>La Communauté Officielle d'Antistasi et Barbolani</French>
         <Russian>Сообщество Antistasi</Russian>
         <German>Die offizielle Antistasi Community und Barbolani</German>
         <Czech>Oficiální komunita Antistasi a Barbolani</Czech>
       </Key>
       <Key ID="STR_antistasi_credits_generic_overview_text">
-        <Original>Build FIA Army from scratch and defeat the AAF and CSAT forces in a whole map Dynamic Mission.</Original>
-        <English>Build FIA Army from scratch and defeat the AAF and CSAT forces in a whole map Dynamic Mission.</English>
+        <Original>Build an Army from scratch and defeat the enemy forces in a whole map Dynamic Mission.</Original>
+        <English>Build an Army from scratch and defeat the enemy forces in a whole map Dynamic Mission.</English>
         <French>Recrutez une armée de la FIA à partir de rien et vainquez les forces de l'AAF et CSAT à travers toute la carte dans une Mission Dynamique</French>
         <Russian>Создайте свою армию с нуля и заставьте силы AAF и CSAT отступить в Динамической Миссии на всей карте.</Russian>
         <German>Formiere eine FIA Armee und bezwinge die AAF und CSAT Kräfte in einer dynamischen Mission auf der gesamten Karte.</German>
         <Czech>Postavte armádu FIA od nuly a porazte síly AAF a CSAT v celé mapě dynamické misi.</Czech>
       </Key>
       <Key ID="STR_antistasi_credits_generic_missionname_text">
-        <Original>Antistasi Altis - British</Original>
-        <English>Antistasi Altis - British</English>
+        <Original>Antistasi Altis (British SF)</Original>
+        <English>Antistasi Altis (British SF)</English>
         <French>Antistasi Altis</French>
         <Russian>Antistasi Альтис</Russian>
         <German>Antistasi Altis</German>
@@ -725,39 +725,39 @@
         <Czech>Buďte vedoucím odboje. Bojujte proti nadřazenému nepříteli v technologii, počtu, majetku a vozidlech. Použijte partyzánskou taktiku ve zcela dynamickém světě, přibližně s 18 vedlejšími misemi, všude kdykoli a cokoli.</Czech>
       </Key>
       <Key ID="STR_antistasi_mission_info_altis_mapname_text">
-        <Original>Antistasi - Liberation of Altis - British SF</Original>
-        <English>Antistasi - Liberation of Altis - British SF</English>
+        <Original>Antistasi - Liberation of Altis (British SF)</Original>
+        <English>Antistasi - Liberation of Altis (British SF)</English>
         <French>Antistasi - Libération d'Altis</French>
       </Key>
       <Key ID="STR_antistasi_mission_info_virolahti_mapname_text">
-        <Original>Antistasi - Liberation of Virolahti</Original>
-        <English>Antistasi - Liberation of Virolahti</English>
+        <Original>Antistasi - Liberation of Virolahti (British SF)</Original>
+        <English>Antistasi - Liberation of Virolahti (British SF)</English>
         <French>Antistasi - Libération de Virolahti</French>
       </Key>
       <Key ID="STR_antistasi_mission_info_stratis_mapname_text">
-        <Original>Antistasi - Liberation of Stratis</Original>
-        <English>Antistasi - Liberation of Stratis</English>
+        <Original>Antistasi - Liberation of Stratis (British SF)</Original>
+        <English>Antistasi - Liberation of Stratis (British SF)</English>
         <French>Antistasi - Libération de Stratis</French>
       </Key>
       <Key ID="STR_antistasi_mission_info_altis_mapname_short_text">
-        <Original>Antistasi Altis - British SF</Original>
-        <English>Antistasi Altis - British SF</English>
+        <Original>Antistasi Altis (British SF)</Original>
+        <English>Antistasi Altis (British SF)</English>
       </Key>
       <Key ID="STR_antistasi_mission_info_virolahti_mapname_short_text">
-        <Original>Antistasi Virolahti</Original>
-        <English>Antistasi Virolahti</English>
+        <Original>Antistasi Virolahti (British SF)</Original>
+        <English>Antistasi Virolahti (British SF)</English>
       </Key>
       <Key ID="STR_antistasi_mission_info_stratis_mapname_short_text">
-        <Original>Antistasi Stratis</Original>
-        <English>Antistasi Stratis</English>
+        <Original>Antistasi Stratis (British SF)</Original>
+        <English>Antistasi Stratis (British SF)</English>
       </Key>
       <Key ID="STR_antistasi_mission_info_altisB_mapname_text">
-        <Original>Antistasi - Liberation of Altis (BLUFOR)</Original>
-        <English>Antistasi - Liberation of Altis (BLUFOR)</English>
+        <Original>Antistasi - Liberation of Altis (British SF)</Original>
+        <English>Antistasi - Liberation of Altis (British SF)</English>
       </Key>
       <Key ID="STR_antistasi_mission_info_altisB_mapname_short_text">
-        <Original>Antistasi Altis (BLUFOR)</Original>
-        <English>Antistasi Altis (BLUFOR)</English>
+        <Original>Antistasi Altis (British SF)</Original>
+        <English>Antistasi Altis (British SF)</English>
       </Key>
       <Key ID="STR_antistasi_mission_info_altis_blurb_text">
         <Original>Because nothing is more important than Freedom.</Original>
