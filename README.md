@@ -12,7 +12,7 @@
 
 </div>
 
-## About
+## About - MISSION WIP
 A modification to the Antistasi Community Version where you play as a British Special Forces Operative leading a Resistance movement.
 
 Anstistasi is a Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics.
